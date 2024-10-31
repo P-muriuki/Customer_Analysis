@@ -6,7 +6,10 @@ Checking for:
 5. Data type Inconsistencies in a column
 
 NOTES
-The sales value is different from one calculated. Could be due to application of a discounts?
-950 out of 1952 has positive profit product base margin while negative profits.
+- The sales value is different from one calculated. Could be due to application of a discounts?
+- 950 out of 1952 has positive profit product base margin while negative profits.
 
 Check which customer category and product type would lead to negative profits. 
+
+- There are repeated ORDER Ids under different Customer IDs. Ideal situation would be to go back to the sales people and 
+ask questions in this case ignore since the products bought are different and sales are not too close of a margin to assume error.
