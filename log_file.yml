@@ -13,4 +13,6 @@ Check which customer category and product type would lead to negative profits.
 
 - There are repeated ORDER Ids under different Customer IDs. Ideal situation would be to go back to the sales people and 
 ask questions in this case ignore since the products bought are different and sales are not too close of a margin to assume error.
-- Unit prices could be the issue.
+- Unit prices could be the issue. Should adjust the selling price for the negative profits
+
+We can also check the shipping time against number of sales of the different products.
