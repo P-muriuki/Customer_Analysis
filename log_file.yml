@@ -4,3 +4,9 @@ Checking for:
 2. Duplicates
 3. Outliers
 5. Data type Inconsistencies in a column
+
+NOTES
+The sales value is different from one calculated. Could be due to application of a discounts?
+950 out of 1952 has positive profit product base margin while negative profits.
+
+Check which customer category and product type would lead to negative profits. 
