@@ -16,3 +16,6 @@ ask questions in this case ignore since the products bought are different and sa
 - Unit prices could be the issue. Should adjust the selling price for the negative profits
 
 We can also check the shipping time against number of sales of the different products.
+
+Analysis
+Created an interractive dashboard checking products against order time, quantity of sales and profit.
