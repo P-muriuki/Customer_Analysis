@@ -36,3 +36,6 @@ Product Base Margin: This could represent the profit margin for each product bef
 
 ### Analyzing data
 [Download the interactive dashboard](https://1drv.ms/x/c/936e951a3bc5788f/ETuiZHECeddAoJnjGjC4E7sB1pEOjRRv1cdaRB9cMnEe4A?e=oHgKgn)
+
+[See the interractive video preview](https://1drv.ms/v/c/936e951a3bc5788f/ESvnJvNqrUlEscp--fTEXLgBb-YBprnUWbfjbJ141Gcpfg?e=9TCpdr)
+
