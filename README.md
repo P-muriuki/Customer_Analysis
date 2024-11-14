@@ -1,5 +1,5 @@
 # Customer_Analysis
-Creating a customer analysis based on the customer data I have.
+Creating a customer analysis based on the customer data I have. I will be using excel for the pre processing, analysis and visualization.
 
 ## Meaning of the variables
 The Superstore Sales data provides sales data for a fictional retail company, including information on products, orders and customers.
