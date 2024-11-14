@@ -33,3 +33,6 @@ Product Base Margin: This could represent the profit margin for each product bef
 4. Orders marked as high or critical have higher than average sales due to quick delivery which improves customer satisfaction.
 5. High discounts on low margin items negatively impact profitability while discounts on high margin products encourage sales without hurting profit.
 6. (Check) Order date trends? Is there an actual trend and seasonality?
+
+### Analyzing data
+[Download the interactive dashboard](https://1drv.ms/x/c/936e951a3bc5788f/ETuiZHECeddAoJnjGjC4E7sB1pEOjRRv1cdaRB9cMnEe4A?e=oHgKgn)
